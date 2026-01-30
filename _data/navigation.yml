@@ -8,26 +8,26 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Linked In"
+    url: /www.linkedin.com/in/taylor-davis-34124932b/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /https://www.canva.com/design/DAGxYtIVh0M/3SXh8grQ5n8_oxY9k_I6zA/edit?utm_content=DAGxYtIVh0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # title: "Blog Posts"
+  #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
