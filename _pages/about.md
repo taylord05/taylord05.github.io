@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Taylor Davis Academic GitHub Page: Ece 3514 Assignment 1"
+title: "Taylor Davis GitHub Page: Ece 3514 Assignment 1"
 author_profile: true
 redirect_from: 
   - /about/
