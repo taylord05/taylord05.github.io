@@ -9,8 +9,7 @@
 
 main:
   - title: "Linked In"
-    url: /www.linkedin.com/in/taylor-davis-34124932b/
-
+    url: https://www.linkedin.com/in/taylor-davis-34124932b/
   #- title: "Talks"
   #  url: /talks/    
 
@@ -18,7 +17,7 @@ main:
   #  url: /teaching/    
     
   - title: "Portfolio"
-    url: /https://www.canva.com/design/DAGxYtIVh0M/3SXh8grQ5n8_oxY9k_I6zA/edit?utm_content=DAGxYtIVh0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/
+    url: https://www.canva.com/design/DAGxYtIVh0M/3SXh8grQ5n8_oxY9k_I6zA/edit?utm_content=DAGxYtIVh0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/
         
   # title: "Blog Posts"
   #  url: /year-archive/
