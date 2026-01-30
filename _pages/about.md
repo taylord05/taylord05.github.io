@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Taylor Davis, and I am attending Virginia Tech to get my Bachelor of Science in Electrical Engineering with a minor in Cybersecurity. At Virginia Tech, I am an Undergraduate Lab Assistant at the FRITH Engineering Lab and a Premium Hospitality Assistant for our Hokies basketball, baseball, and football games. Some of my club and team activities include my work on the Hybrid Electric Vehicle Team and my participation in the Filipino American Student Association. If you would like to know more about me, my email and LinkedIn are both attached.
+My name is Taylor Davis, and I am attending Virginia Tech to get my Bachelor of Science in Electrical Engineering with a minor in Cybersecurity. At Virginia Tech, I am an Undergraduate Lab Assistant at the FRITH Engineering Lab and a Premium Hospitality Assistant for our Hokies basketball, baseball, and football games. Some of my club and team activities include my work on the Hybrid Electric Vehicle Team and my participation in the Filipino American Student Association. 
+
+I am seeking a Summer 2026 internship in Robotics, Controls, and Autonomy, where I can apply my electrical engineering skills to autonomous systems and control validation. My work with the Hybrid Electric Vehicle Team has given me practical experience developing test harnesses, building GUIs for system monitoring, and conducting Model-in-the-Loop (MIL) and Hardware-in-the-Loop (HIL) testing for parameters like derates and torque curves. I am eager to gain industry experience working on cutting-edge robotics or autonomous technology projects, particularly in testing, validation, and control system development. 
+
+If you would like to know more about me, my email and LinkedIn are both attached. Thanks :)!
 
 
 ------
